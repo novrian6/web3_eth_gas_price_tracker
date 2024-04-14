@@ -1,4 +1,5 @@
 # Ethereum Gas Price Tracker
+Developer: Nova Novriansyah
 
 ![Ethereum Gas Price Tracker](gas-price-tracker-screenshot.png)
 
